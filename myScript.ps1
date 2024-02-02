@@ -1,4 +1,4 @@
-#Import the Azure PowerShell module.
+﻿#Import the Azure PowerShell module.
 Import-Module -Name Az
 
 #Connect to an Azure Account.
